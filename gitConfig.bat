@@ -1,7 +1,7 @@
 @echo off
 
 git config --global user.name "Alice Campos"
-git config --global user.email "allicecampos@gmail.com"
+git config --global user.email "allicefcampos@gmail.com"
 
 echo --
 
